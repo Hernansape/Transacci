@@ -1,0 +1,2 @@
+# Transacci
+Wallet-tronx-validar
